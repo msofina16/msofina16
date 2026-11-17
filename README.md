@@ -35,3 +35,4 @@ Junior QA с практикой тестирования веб- и мобиль
 
 - ✉️ Email: msofina16@yandex.ru
 - 💬 Telegram: [@agrr16](https://t.me/agrr16)
+- 💼 Хабр Карьера: [career.habr.com/m_sofina](https://career.habr.com/m_sofina)
