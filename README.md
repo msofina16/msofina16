@@ -8,7 +8,8 @@
 
 Junior QA с практикой тестирования веб- и мобильных приложений.
 Умею находить неочевидные дефекты: проверяю граничные значения, редкие сценарии и данные в базе.
-Пишу автотесты на TypeScript и Playwright: UI-тесты с паттерном Page Object и API-тесты (REST), запуск в CI — GitHub Actions.
+Пишу автотесты на TypeScript и Playwright: 12 UI-тестов с паттерном Page Object в 3 браузерах и 6 API-тестов (REST, авторизация по токену), запуск в CI — GitHub Actions.
+Нахожу и описываю дефекты: баг-репорты с шагами воспроизведения и скриншотами.
 
 ## Навыки
 
@@ -67,7 +68,7 @@ Junior QA с практикой тестирования веб- и мобиль
 
 🤖 [qa-portfolio-playwright](https://github.com/msofina16/qa-portfolio-playwright) — автотесты на Playwright + TypeScript: UI-тесты интернет-магазина [saucedemo.com](https://www.saucedemo.com) (Page Object) и API-тесты [Restful Booker](https://restful-booker.herokuapp.com), запуск в GitHub Actions
 
-📂 [qa-portfolio](https://github.com/msofina16/qa-portfolio) — ручное тестирование: чек-листы и тест-кейсы для того же магазина
+📂 [qa-portfolio](https://github.com/msofina16/qa-portfolio) — ручное тестирование: чек-листы, тест-кейсы и баг-репорты (Sauce Demo и Restful Booker API)
 
 ## Образование
 
